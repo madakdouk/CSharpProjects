@@ -1,0 +1,8 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\welcomeScreen\welcomeScreen\bin\Debug\welcomeScreen.exe.config
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\welcomeScreen\welcomeScreen\bin\Debug\welcomeScreen.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\welcomeScreen\welcomeScreen\bin\Debug\welcomeScreen.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\welcomeScreen\welcomeScreen\obj\Debug\welcomeScreen.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\welcomeScreen\welcomeScreen\obj\Debug\welcomeScreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\welcomeScreen\welcomeScreen\obj\Debug\welcomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\welcomeScreen\welcomeScreen\obj\Debug\welcomeScreen.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\welcomeScreen\welcomeScreen\obj\Debug\welcomeScreen.pdb
