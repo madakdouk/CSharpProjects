@@ -1,0 +1,8 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\dailyReport\dailyReport\bin\Debug\dailyReport.exe.config
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\dailyReport\dailyReport\bin\Debug\dailyReport.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\dailyReport\dailyReport\bin\Debug\dailyReport.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\dailyReport\dailyReport\obj\Debug\dailyReport.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\dailyReport\dailyReport\obj\Debug\dailyReport.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\dailyReport\dailyReport\obj\Debug\dailyReport.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\dailyReport\dailyReport\obj\Debug\dailyReport.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\dailyReport\dailyReport\obj\Debug\dailyReport.pdb
