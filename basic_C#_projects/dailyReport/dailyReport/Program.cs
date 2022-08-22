@@ -44,7 +44,8 @@ namespace dailyReport
             //creating var to store answer to q7, converting to byte in one line
             byte yourHours = Convert.ToByte(Console.ReadLine());
 
-            //Leaving console open until user decides to exit
+            //printing closing message and leaving console open until user decides to exit
+            Console.WriteLine("\nThank you for your answers. An Instructor will respond to this shortly. Have a great day!");
             Console.ReadLine();
             
         }
