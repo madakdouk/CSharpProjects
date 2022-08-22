@@ -1,0 +1,8 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathOperations\mathOperations\obj\Debug\mathOperations.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathOperations\mathOperations\obj\Debug\mathOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathOperations\mathOperations\obj\Debug\mathOperations.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathOperations\mathOperations\bin\Debug\mathOperations.exe.config
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathOperations\mathOperations\bin\Debug\mathOperations.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathOperations\mathOperations\bin\Debug\mathOperations.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathOperations\mathOperations\obj\Debug\mathOperations.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathOperations\mathOperations\obj\Debug\mathOperations.pdb
