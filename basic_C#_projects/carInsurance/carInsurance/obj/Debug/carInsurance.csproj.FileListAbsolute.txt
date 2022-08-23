@@ -1,0 +1,8 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\carInsurance\carInsurance\bin\Debug\carInsurance.exe.config
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\carInsurance\carInsurance\bin\Debug\carInsurance.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\carInsurance\carInsurance\bin\Debug\carInsurance.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\carInsurance\carInsurance\obj\Debug\carInsurance.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\carInsurance\carInsurance\obj\Debug\carInsurance.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\carInsurance\carInsurance\obj\Debug\carInsurance.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\carInsurance\carInsurance\obj\Debug\carInsurance.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\carInsurance\carInsurance\obj\Debug\carInsurance.pdb
