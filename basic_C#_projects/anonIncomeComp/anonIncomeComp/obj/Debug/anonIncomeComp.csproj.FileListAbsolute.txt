@@ -1,0 +1,8 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\anonIncomeComp\anonIncomeComp\bin\Debug\anonIncomeComp.exe.config
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\anonIncomeComp\anonIncomeComp\bin\Debug\anonIncomeComp.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\anonIncomeComp\anonIncomeComp\bin\Debug\anonIncomeComp.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\anonIncomeComp\anonIncomeComp\obj\Debug\anonIncomeComp.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\anonIncomeComp\anonIncomeComp\obj\Debug\anonIncomeComp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\anonIncomeComp\anonIncomeComp\obj\Debug\anonIncomeComp.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\anonIncomeComp\anonIncomeComp\obj\Debug\anonIncomeComp.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\anonIncomeComp\anonIncomeComp\obj\Debug\anonIncomeComp.pdb
