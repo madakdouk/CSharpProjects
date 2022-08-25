@@ -1,0 +1,8 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\whileLoops\whileLoops\bin\Debug\whileLoops.exe.config
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\whileLoops\whileLoops\bin\Debug\whileLoops.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\whileLoops\whileLoops\bin\Debug\whileLoops.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\whileLoops\whileLoops\obj\Debug\whileLoops.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\whileLoops\whileLoops\obj\Debug\whileLoops.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\whileLoops\whileLoops\obj\Debug\whileLoops.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\whileLoops\whileLoops\obj\Debug\whileLoops.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\whileLoops\whileLoops\obj\Debug\whileLoops.pdb
