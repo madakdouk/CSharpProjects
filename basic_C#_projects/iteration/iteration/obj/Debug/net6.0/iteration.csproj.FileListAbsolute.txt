@@ -1,0 +1,15 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\bin\Debug\net6.0\iteration.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\bin\Debug\net6.0\iteration.deps.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\bin\Debug\net6.0\iteration.runtimeconfig.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\bin\Debug\net6.0\iteration.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\bin\Debug\net6.0\iteration.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\obj\Debug\net6.0\iteration.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\obj\Debug\net6.0\iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\obj\Debug\net6.0\iteration.AssemblyInfoInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\obj\Debug\net6.0\iteration.AssemblyInfo.cs
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\obj\Debug\net6.0\iteration.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\obj\Debug\net6.0\iteration.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\obj\Debug\net6.0\refint\iteration.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\obj\Debug\net6.0\iteration.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\obj\Debug\net6.0\iteration.genruntimeconfig.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\iteration\iteration\obj\Debug\net6.0\ref\iteration.dll
