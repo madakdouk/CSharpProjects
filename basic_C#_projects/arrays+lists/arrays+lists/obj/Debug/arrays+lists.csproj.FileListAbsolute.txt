@@ -1,0 +1,8 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\arrays+lists\arrays+lists\bin\Debug\arrays+lists.exe.config
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\arrays+lists\arrays+lists\bin\Debug\arrays+lists.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\arrays+lists\arrays+lists\bin\Debug\arrays+lists.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\arrays+lists\arrays+lists\obj\Debug\arrays+lists.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\arrays+lists\arrays+lists\obj\Debug\arrays+lists.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\arrays+lists\arrays+lists\obj\Debug\arrays+lists.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\arrays+lists\arrays+lists\obj\Debug\arrays+lists.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\arrays+lists\arrays+lists\obj\Debug\arrays+lists.pdb
