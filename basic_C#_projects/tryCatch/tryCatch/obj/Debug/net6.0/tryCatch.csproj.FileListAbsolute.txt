@@ -1,0 +1,15 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.deps.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.runtimeconfig.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.AssemblyInfoInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.AssemblyInfo.cs
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\obj\Debug\net6.0\refint\tryCatch.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.genruntimeconfig.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\tryCatch\tryCatch\obj\Debug\net6.0\ref\tryCatch.dll
