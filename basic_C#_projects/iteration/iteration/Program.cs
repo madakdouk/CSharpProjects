@@ -109,4 +109,25 @@ else
 {
     Console.WriteLine(pet + " is not contained within the list.");
 }
+
+/***Part 6***/
+//creating list with 2 identical strings
+List<string> pets2 = new List<string>() { "cat", "snake", "mouse", "turtle", "cat", "dog", "fish" };
+//creating another list to be compared to
+List<string> pets2_ = new List<string>();
+//creating for each loop
+foreach (string pet2 in pets2)
+{
+    if (pets2_.Contains(pet2))
+    {
+        //if the item is already in second list, it is a duplicate
+        Console.WriteLine(pet2 + " - this item is a duplicate.");
+    }
+    else
+    {
+        //otherwise, add the item to the second list and display it as unique
+        pets2_.Add(pet2);
+        Console.WriteLine(pet2 + " - this item is unique.");
+    }
+}
 Console.Read();
