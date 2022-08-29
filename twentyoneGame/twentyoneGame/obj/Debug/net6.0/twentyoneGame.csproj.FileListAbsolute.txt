@@ -1,0 +1,15 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\bin\Debug\net6.0\twentyoneGame.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\bin\Debug\net6.0\twentyoneGame.deps.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\bin\Debug\net6.0\twentyoneGame.runtimeconfig.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\bin\Debug\net6.0\twentyoneGame.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\bin\Debug\net6.0\twentyoneGame.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\obj\Debug\net6.0\twentyoneGame.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\obj\Debug\net6.0\twentyoneGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\obj\Debug\net6.0\twentyoneGame.AssemblyInfoInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\obj\Debug\net6.0\twentyoneGame.AssemblyInfo.cs
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\obj\Debug\net6.0\twentyoneGame.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\obj\Debug\net6.0\twentyoneGame.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\obj\Debug\net6.0\refint\twentyoneGame.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\obj\Debug\net6.0\twentyoneGame.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\obj\Debug\net6.0\twentyoneGame.genruntimeconfig.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\twentyoneGame\twentyoneGame\obj\Debug\net6.0\ref\twentyoneGame.dll
