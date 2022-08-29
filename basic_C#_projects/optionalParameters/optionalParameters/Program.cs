@@ -6,12 +6,21 @@ namespace optionalParameters
     {
         static void Main(string[] args)
         {
-            //calling method with only 1 argument passed to it
-            Console.WriteLine("1 + 1 = " + optional.opt(1));
+            //asking user for input and storing first input as var
+            Console.WriteLine("Please input two numbers, one at a time. The second number is optional.");
+            int n = Convert.ToInt32(Console.ReadLine());
 
-            //calling method with 2 arguments passed to it
-            Console.WriteLine("4 + 6 = " + optional.opt(4, 6));
-
+            //try catch block will use optional parameter in case user does not enter a second value
+            try
+            {
+                //calling method for calculation using user input
+                Console.WriteLine("Sum: " + optional.opt(n, Convert.ToInt32(Console.ReadLine())));
+            }
+            catch (FormatException)
+            {
+                //if no second input, optional argument will be used
+                Console.WriteLine("Sum: " + optional.opt(n));
+            }
             Console.Read();
         }
     }
