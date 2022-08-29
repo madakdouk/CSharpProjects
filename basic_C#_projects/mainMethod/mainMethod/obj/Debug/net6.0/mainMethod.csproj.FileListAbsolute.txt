@@ -1,0 +1,15 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\bin\Debug\net6.0\mainMethod.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\bin\Debug\net6.0\mainMethod.deps.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\bin\Debug\net6.0\mainMethod.runtimeconfig.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\bin\Debug\net6.0\mainMethod.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\bin\Debug\net6.0\mainMethod.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\obj\Debug\net6.0\mainMethod.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\obj\Debug\net6.0\mainMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\obj\Debug\net6.0\mainMethod.AssemblyInfoInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\obj\Debug\net6.0\mainMethod.AssemblyInfo.cs
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\obj\Debug\net6.0\mainMethod.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\obj\Debug\net6.0\mainMethod.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\obj\Debug\net6.0\refint\mainMethod.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\obj\Debug\net6.0\mainMethod.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\obj\Debug\net6.0\mainMethod.genruntimeconfig.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mainMethod\mainMethod\obj\Debug\net6.0\ref\mainMethod.dll

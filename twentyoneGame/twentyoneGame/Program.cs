@@ -19,27 +19,31 @@ internal class Program
         Console.WriteLine(firstDeck.Cards.Count);
     }
 
-    //creating shuffle method
-    public static deck shuffle(deck deck)
+    //creating shuffle method with optional parameter times to shuffle
+    public static deck shuffle(deck deck, int times=1)
     {
-        //creating temp list of cards
-        List<card> tempList = new List<card>();
-        //creating new random object
-        Random random = new Random();
-
-        //loop while input deck cards list is greater than 0
-        while (deck.Cards.Count > 0)
+        //for loop to shuffle x amount of times
+        for (int i = 0; i < times; i++)
         {
-            //get random integer between 0 and deck count
-            int randomIndex = random.Next(deck.Cards.Count);
-            //add card at that index to temp list
-            tempList.Add(deck.Cards[randomIndex]);
-            //remove card from deck
-            deck.Cards.RemoveAt(randomIndex);
-        }
+            //creating temp list of cards
+            List<card> tempList = new List<card>();
+            //creating new random object
+            Random random = new Random();
 
-        //set deck equal to the temp deck
-        deck.Cards = tempList;
+            //loop while input deck cards list is greater than 0
+            while (deck.Cards.Count > 0)
+            {
+                //get random integer between 0 and deck count
+                int randomIndex = random.Next(deck.Cards.Count);
+                //add card at that index to temp list
+                tempList.Add(deck.Cards[randomIndex]);
+                //remove card from deck
+                deck.Cards.RemoveAt(randomIndex);
+            }
+
+            //set deck equal to the temp deck
+            deck.Cards = tempList;
+        }
         //return deck as output of function
         return deck;
     }
