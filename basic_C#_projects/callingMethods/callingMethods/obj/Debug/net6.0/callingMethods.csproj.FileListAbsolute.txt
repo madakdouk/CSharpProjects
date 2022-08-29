@@ -1,0 +1,15 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\bin\Debug\net6.0\callingMethods.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\bin\Debug\net6.0\callingMethods.deps.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\bin\Debug\net6.0\callingMethods.runtimeconfig.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\bin\Debug\net6.0\callingMethods.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\bin\Debug\net6.0\callingMethods.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\obj\Debug\net6.0\callingMethods.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\obj\Debug\net6.0\callingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\obj\Debug\net6.0\callingMethods.AssemblyInfoInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\obj\Debug\net6.0\callingMethods.AssemblyInfo.cs
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\obj\Debug\net6.0\callingMethods.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\obj\Debug\net6.0\callingMethods.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\obj\Debug\net6.0\refint\callingMethods.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\obj\Debug\net6.0\callingMethods.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\obj\Debug\net6.0\callingMethods.genruntimeconfig.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\callingMethods\callingMethods\obj\Debug\net6.0\ref\callingMethods.dll

@@ -11,6 +11,9 @@
 
             //calling methods
             Console.WriteLine(n + " + 5 = " + Methods.Add5(n) + "\n" + n + " * 2 = " + Methods.Times2(n) + "\n" + n + " - 3 = " + Methods.Minus3(n));
+            Console.Read();
+
+            //can be improved by adding code to catch non-integer input
         }
     }
 }
