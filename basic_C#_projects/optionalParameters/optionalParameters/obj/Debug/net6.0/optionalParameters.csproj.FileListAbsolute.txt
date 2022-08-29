@@ -1,0 +1,15 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\bin\Debug\net6.0\optionalParameters.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\bin\Debug\net6.0\optionalParameters.deps.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\bin\Debug\net6.0\optionalParameters.runtimeconfig.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\bin\Debug\net6.0\optionalParameters.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\bin\Debug\net6.0\optionalParameters.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\obj\Debug\net6.0\optionalParameters.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\obj\Debug\net6.0\optionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\obj\Debug\net6.0\optionalParameters.AssemblyInfoInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\obj\Debug\net6.0\optionalParameters.AssemblyInfo.cs
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\obj\Debug\net6.0\optionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\obj\Debug\net6.0\optionalParameters.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\obj\Debug\net6.0\refint\optionalParameters.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\obj\Debug\net6.0\optionalParameters.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\obj\Debug\net6.0\optionalParameters.genruntimeconfig.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\optionalParameters\optionalParameters\obj\Debug\net6.0\ref\optionalParameters.dll
