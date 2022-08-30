@@ -49,5 +49,31 @@ namespace twentyoneGame
 
         //Cards is a property of the deck class that is a list element 
         public List<card> Cards { get; set; }
+
+        //creating shuffle method with optional parameter times to shuffle
+        public void shuffle(int times = 1)
+        {
+            //for loop to shuffle x amount of times
+            for (int i = 0; i < times; i++)
+            {
+                //creating temp list of cards
+                List<card> tempList = new List<card>();
+                //creating new random object
+                Random random = new Random();
+
+                //loop while input deck cards list is greater than 0
+                while (Cards.Count > 0)
+                {
+                    //get random integer between 0 and deck count
+                    int randomIndex = random.Next(Cards.Count);
+                    //add card at that index to temp list
+                    tempList.Add(Cards[randomIndex]);
+                    //remove card from deck
+                    Cards.RemoveAt(randomIndex);
+                }
+                //set deck equal to the temp deck
+                Cards = tempList;
+            }
+        }
     }
 }
