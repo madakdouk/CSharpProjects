@@ -6,6 +6,9 @@ namespace optionalParameters
     {
         static void Main(string[] args)
         {
+            //instantiating the class
+            optional options = new optional();
+
             //asking user for input and storing first input as var
             Console.WriteLine("Please input two numbers, one at a time. The second number is optional.");
             int n = Convert.ToInt32(Console.ReadLine());
@@ -14,12 +17,12 @@ namespace optionalParameters
             try
             {
                 //calling method for calculation using user input
-                Console.WriteLine("Sum: " + optional.opt(n, Convert.ToInt32(Console.ReadLine())));
+                Console.WriteLine("Sum: " + options.opt(n, Convert.ToInt32(Console.ReadLine())));
             }
             catch (FormatException)
             {
                 //if no second input, optional argument will be used
-                Console.WriteLine("Sum: " + optional.opt(n));
+                Console.WriteLine("Sum: " + options.opt(n));
             }
             Console.Read();
         }
