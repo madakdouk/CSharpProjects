@@ -4,14 +4,17 @@
     {
         static void Main(string[] args)
         {
-            //passing integer to first method and displaying result
-            Console.WriteLine("1 + 1 = " + methods.one(1));
+            //instantiating the class
+            methods method = new methods();
 
-            //passing float to second method and displaying result
-            Console.WriteLine("11.5 / 2 = " + methods.one(11.5f));
+            //passing integer to first method and displaying result
+            Console.WriteLine("1 + 1 = " + method.one(1));
+
+            //passing decimal to second method and displaying result
+            Console.WriteLine("11.5 / 2 = " + method.one(11.5m));
 
             //passing string to third method and displaying result
-            Console.WriteLine("10 - 3 = " + methods.one("10"));
+            Console.WriteLine("10 - 3 = " + method.one("10"));
 
             Console.Read();
         }

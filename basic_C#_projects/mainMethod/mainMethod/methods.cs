@@ -9,14 +9,14 @@ namespace mainMethod
     public class methods
     {
         //first method takes int input and sends int output
-        public static int one(int n)
+        public int one(int n)
         {
             return n + 1;
         }
 
         //creating method with same name but slightly different function
-        //input is float, output is still int
-        public static int one(float n)
+        //input is decimal, output is still int
+        public int one(decimal n)
         {
             //casting float input to int
             return (int)(n / 2);
@@ -24,7 +24,7 @@ namespace mainMethod
 
         //creating method with same name but slightly different funcntion
         //input is string, output is int
-        public static int one(string n)
+        public int one(string n)
         {
             return Convert.ToInt32(n) - 3;
         }
