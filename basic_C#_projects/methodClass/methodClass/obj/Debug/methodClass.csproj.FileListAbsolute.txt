@@ -1,0 +1,8 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\methodClass\methodClass\bin\Debug\methodClass.exe.config
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\methodClass\methodClass\bin\Debug\methodClass.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\methodClass\methodClass\bin\Debug\methodClass.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\methodClass\methodClass\obj\Debug\methodClass.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\methodClass\methodClass\obj\Debug\methodClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\methodClass\methodClass\obj\Debug\methodClass.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\methodClass\methodClass\obj\Debug\methodClass.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\methodClass\methodClass\obj\Debug\methodClass.pdb
