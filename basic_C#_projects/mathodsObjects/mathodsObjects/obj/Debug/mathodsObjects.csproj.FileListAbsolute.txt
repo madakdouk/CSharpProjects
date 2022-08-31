@@ -1,0 +1,8 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathodsObjects\mathodsObjects\bin\Debug\mathodsObjects.exe.config
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathodsObjects\mathodsObjects\bin\Debug\mathodsObjects.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathodsObjects\mathodsObjects\bin\Debug\mathodsObjects.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathodsObjects\mathodsObjects\obj\Debug\mathodsObjects.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathodsObjects\mathodsObjects\obj\Debug\mathodsObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathodsObjects\mathodsObjects\obj\Debug\mathodsObjects.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathodsObjects\mathodsObjects\obj\Debug\mathodsObjects.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\mathodsObjects\mathodsObjects\obj\Debug\mathodsObjects.pdb
