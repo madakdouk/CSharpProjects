@@ -4,6 +4,10 @@ internal class Program
 {
     public static void Main()
     {
+        twentyOne game = new twentyOne();
+        game.Players = new List<string>() { "Maher", "Fernando" };
+        game.listPlayers();
+
         //creating new object part of deck class
         deck firstDeck = new();
         //shuffling deck

@@ -6,17 +6,21 @@ using System.Threading.Tasks;
 
 namespace twentyoneGame
 {
-    public class game
+    public abstract class game
     {
         //setting the properties of game class
-        public List<string> players { get; set; }
-        public string name { get; set; }
-        public string dealer { get; set; }
+        public List<string> Players { get; set; }
+        public string Name { get; set; }
+        public string Dealer { get; set; }
+
+        //every inherited class must implement this method
+        public abstract void play();
 
         //method that does not return a value, but prints all players on the screen
-        public void listPlayers()
+        //virtual method can be overwritten to include specific functionality for inherited class
+        public virtual void listPlayers()
         {
-            foreach (string player in players)
+            foreach (string player in Players)
             {
                 Console.WriteLine(player);
             }

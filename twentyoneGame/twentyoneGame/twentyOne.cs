@@ -8,9 +8,16 @@ namespace twentyoneGame
 {
     public class twentyOne : game
     {
-        public void play()
+        public override void play()
         {
             throw new NotImplementedException();
+        }
+        
+        //overriding this function from inherited abstract class
+        public override void listPlayers()
+        {
+            Console.WriteLine("21 players: ");
+            base.listPlayers();
         }
     }
 }
