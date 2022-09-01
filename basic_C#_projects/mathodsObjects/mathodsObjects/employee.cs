@@ -12,13 +12,11 @@ namespace methodsObjects
         //new property for this class
         public int id { get; set; }
 
-        //overriding sayName method in employee class
+        //implementing abstract method here
         public override void sayName()
         {
-            //this line mirrors the code of the virtual function in the abstract class
-            base.sayName();
-            //this allows you to build more functionality into this function specifically for this class
-            //without the need to repeat the "base" code
+            //printing employee name to screen
+            Console.WriteLine("Name: " + firstName + " " + lastName);
         }
 
         //implementing quit method into employee class

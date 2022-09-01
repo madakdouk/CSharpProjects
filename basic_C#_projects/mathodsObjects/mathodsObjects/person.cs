@@ -13,10 +13,7 @@ namespace methodsObjects
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        //creating virtual method that displays name on screen
-        public virtual void sayName()
-        {
-            Console.WriteLine("Name: " + firstName + " " + lastName);
-        }
+        //creating abstract method
+        public abstract void sayName();
     }
 }
