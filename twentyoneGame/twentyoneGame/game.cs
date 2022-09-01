@@ -9,7 +9,7 @@ namespace twentyoneGame
     public abstract class game
     {
         //setting the properties of game class
-        public List<string> Players { get; set; }
+        public List<player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -20,9 +20,9 @@ namespace twentyoneGame
         //virtual method can be overwritten to include specific functionality for inherited class
         public virtual void listPlayers()
         {
-            foreach (string player in Players)
+            foreach (player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
     }

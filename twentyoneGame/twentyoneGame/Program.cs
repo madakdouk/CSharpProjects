@@ -4,9 +4,15 @@ internal class Program
 {
     public static void Main()
     {
-        twentyOne game = new twentyOne();
-        game.Players = new List<string>() { "Maher", "Fernando" };
-        game.listPlayers();
+        //creating new game and instantiating list of players
+        game game = new twentyOne();
+        game.Players = new List<player>();
+        //creating new player
+        player player = new();
+        player.Name = "Maher";
+        //adding player to game using overload operator +
+        game += player;
+
 
         //creating new object part of deck class
         deck firstDeck = new();
@@ -21,5 +27,7 @@ internal class Program
 
         //printing out how many cards are in the deck
         Console.WriteLine(firstDeck.Cards.Count);
+
+        Console.ReadLine();
     }
 }
