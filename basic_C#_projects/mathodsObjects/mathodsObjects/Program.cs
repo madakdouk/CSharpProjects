@@ -15,6 +15,11 @@ namespace methodsObjects
             //calling method
             employee1.sayName();
 
+            //instantiating IQuittable object using polymorphism
+            IQuittable employee2 = new employee();
+            //calling method
+            employee2.Quit();
+
             Console.Read();
         }
     }

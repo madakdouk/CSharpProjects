@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace methodsObjects
 {
     //this class inherits from person class
-    public class employee : person
+    public class employee : person, IQuittable
     {
         //new property for this class
         public int id { get; set; }
@@ -20,5 +20,11 @@ namespace methodsObjects
             //this allows you to build more functionality into this function specifically for this class
             //without the need to repeat the "base" code
         }
+
+        public void Quit()
+        {
+            Console.WriteLine("I quit.");
+        }
+
     }
 }
