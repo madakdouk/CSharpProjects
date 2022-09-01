@@ -10,10 +10,19 @@ namespace twentyoneGame
     {
         public card()
         {
-            Suit = "Spades";
+            Suit = Suit.Spades;
             Face = "Two";
         }
-        public string Suit { get; set; }
+        public Suit Suit { get; set; }
         public string Face { get; set; }
+    }
+
+    //creating enum to represent suit
+    public enum Suit
+    {
+        Clubs,
+        Spades,
+        Diamonds,
+        Hearts
     }
 }

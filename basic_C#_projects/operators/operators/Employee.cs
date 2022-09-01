@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace operators
 {
-    public class Employee
+    public class Employee<T>
     {
         //creating properties for employee class
         public int Id { get; set; }
@@ -14,7 +14,7 @@ namespace operators
         public string LastName { get; set; }
 
         //overload == operator, takes 2 employee objects and returns bool
-        public static bool operator== (Employee emp1, Employee emp2)
+        public static bool operator== (Employee<T> emp1, Employee<T> emp2)
         {
             //checking if ids are equal
             bool equalID = emp1.Id == emp2.Id;
@@ -26,7 +26,7 @@ namespace operators
         }
 
         //overload != operator, takes 2 employeee objects and reutrns bool
-        public static bool operator!= (Employee emp1, Employee emp2)
+        public static bool operator!= (Employee<T> emp1, Employee<T> emp2)
         {
             //check if ids not equal
             bool notEqualID = emp1.Id != emp2.Id;
