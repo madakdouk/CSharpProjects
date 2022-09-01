@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace mathodsObjects
+namespace methodsObjects
 {
     internal class Program
     {
@@ -12,7 +12,7 @@ namespace mathodsObjects
         {
             //instantiating and initializing employee object
             employee employee1 = new employee() { firstName = "Sample", lastName = "Student" };
-            //calling superclass method
+            //calling method
             employee1.sayName();
 
             Console.Read();
