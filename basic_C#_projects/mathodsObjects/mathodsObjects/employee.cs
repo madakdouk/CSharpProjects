@@ -21,6 +21,7 @@ namespace methodsObjects
             //without the need to repeat the "base" code
         }
 
+        //implementing quit method into employee class
         public void Quit()
         {
             Console.WriteLine("I quit.");

@@ -20,7 +20,7 @@ namespace methodsObjects
             //calling method
             employee2.Quit();
 
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }
