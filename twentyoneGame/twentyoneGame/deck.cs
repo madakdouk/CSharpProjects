@@ -21,27 +21,14 @@ namespace twentyoneGame
             //upon creating new object from deck class, cards property will consist of a new list containing card elements
             Cards = new List<card>();
 
-            //creating string lists of suits and faces
-            List<string> suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
-            List<string> faces = new List<string>
+            //for loop to create a new deck
+            for (int i = 0; i < 13; i++)
             {
-                "Two", "Three", "Four", "Five", "Six", "Seven",
-                "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
-
-            //populating card list using nested foreach loops
-            foreach (string face in faces)
-            {
-                //for each face value, go to each suit...
-                foreach (string suit in suits)
+                for (int j = 0; j < 4; j++)
                 {
-                    //... create a new card object
                     card card = new card();
-                    //... with suit property set to current suit in loop
-                    card.Suit = suit;
-                    //... and with face property set to current face in loop
-                    card.Face = face;
-                    ///... and finally add the new card to the deck's card list
+                    card.Suit = (Suit)j; //casting int j to Suit enum
+                    card.Face = (Face)i;
                     Cards.Add(card);
                 }
             }

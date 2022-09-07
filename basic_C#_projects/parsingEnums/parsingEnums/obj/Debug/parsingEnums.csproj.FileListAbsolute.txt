@@ -1,0 +1,8 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\parsingEnums\parsingEnums\bin\Debug\parsingEnums.exe.config
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\parsingEnums\parsingEnums\bin\Debug\parsingEnums.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\parsingEnums\parsingEnums\bin\Debug\parsingEnums.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\parsingEnums\parsingEnums\obj\Debug\parsingEnums.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\parsingEnums\parsingEnums\obj\Debug\parsingEnums.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\parsingEnums\parsingEnums\obj\Debug\parsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\parsingEnums\parsingEnums\obj\Debug\parsingEnums.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\parsingEnums\parsingEnums\obj\Debug\parsingEnums.pdb
