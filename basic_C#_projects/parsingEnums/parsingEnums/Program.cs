@@ -19,7 +19,7 @@ namespace parsingEnums
              */
             try
             {
-                //using method to parse enum and compare
+                //using enum.parse method to parse enum and compare to user input
                 DaysOfTheWeek today = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), Console.ReadLine());
             }
             catch (System.ArgumentException)
@@ -31,7 +31,8 @@ namespace parsingEnums
         }
     }
 
-    public enum DaysOfTheWeek //creating enum for days of the week
+    //creating enum for days of the week
+    public enum DaysOfTheWeek 
     {
         Monday,
         Tuesday,
