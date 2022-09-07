@@ -11,8 +11,8 @@ namespace operators
         static void Main()
         {
             //instantiating 2 new employee objects and setting id properties
-            Employee employee1 = new Employee() { Id = 1 };
-            Employee employee2 = new Employee() { Id = 2 };
+            Employee<string> employee1 = new Employee<string>() { Id = 1 };
+            Employee<string> employee2 = new Employee<string>() { Id = 2 };
 
             //using overload operator methods
             bool equalID = employee1 == employee2;
