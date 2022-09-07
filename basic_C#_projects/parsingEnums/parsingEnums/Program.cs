@@ -26,7 +26,7 @@ namespace parsingEnums
             {
                 Console.WriteLine("Entered value is not valid. Please try again.");
             }
-
+            //will add loop to give user unlimited attempts if required
             Console.Read();
         }
     }
