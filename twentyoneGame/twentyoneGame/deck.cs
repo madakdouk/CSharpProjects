@@ -32,6 +32,7 @@ namespace twentyoneGame
                     Cards.Add(card);
                 }
             }
+            shuffle(3);
         }
 
         //Cards is a property of the deck class that is a list element 

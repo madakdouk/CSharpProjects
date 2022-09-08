@@ -4,30 +4,26 @@ internal class Program
 {
     public static void Main()
     {
-        //creating new game and instantiating list of players
-        game game = new twentyOne();
-        game.Players = new List<player>();
-        //creating new player
-        player player = new();
-        player.Name = "Maher";
-        //adding player to game using overload operator +
-        game += player;
-
-
-        //creating new object part of deck class
-        deck firstDeck = new();
-        //shuffling deck
-        firstDeck.shuffle(3);
-
-        //printing out all cards in deck
-        foreach (card card in firstDeck.Cards)
+        Console.WriteLine("Welcome to the casino. Please let me know what your name is."); //asking for user input
+        string playerName = Console.ReadLine();
+        Console.WriteLine("How much money will you be playing with today?");
+        int bank = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("{0}, would you like to play a game of 21 right now?", playerName);
+        string answer = Console.ReadLine().ToLower(); //converting answer to lowercase to make it easier to check
+        if (answer == "yes" || answer == "y" || answer == "yeah" || answer == "ya")
         {
-            Console.WriteLine(card.Face + " of " + card.Suit);
+            player player = new player(playerName, bank); //instantiating new player
+            game twenty1 = new twentyOne();
+            twenty1 += player; //created new game object and added player to game's list of players
+            player.isActivelyPlaying = true;
+            while (player.isActivelyPlaying && player.Balance > 0)
+            {
+                twenty1.play(); //play method is active while player is playing and has money to continue
+            }
+            twenty1 -= player; //remove player from list when they're done playing
+            Console.WriteLine("Thank you for playing!");
         }
-
-        //printing out how many cards are in the deck
-        Console.WriteLine(firstDeck.Cards.Count);
-
-        Console.ReadLine();
+        Console.WriteLine("Feel free to take a look around the casino.");
+        Console.Read();
     }
 }
