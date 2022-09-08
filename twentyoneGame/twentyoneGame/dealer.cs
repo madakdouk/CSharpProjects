@@ -17,10 +17,6 @@ namespace twentyoneGame
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
-            using (StreamWriter file = new StreamWriter(@"C:\Users\MDakd\Downloads\logs\logtest.txt", true))
-            {
-                file.WriteLine(card);
-            }
             Deck.Cards.RemoveAt(0);
         }
     }
