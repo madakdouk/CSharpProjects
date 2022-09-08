@@ -1,0 +1,8 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\logging\logging\obj\Debug\logging.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\logging\logging\obj\Debug\logging.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\logging\logging\obj\Debug\logging.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\logging\logging\bin\Debug\logging.exe.config
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\logging\logging\bin\Debug\logging.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\logging\logging\bin\Debug\logging.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\logging\logging\obj\Debug\logging.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\logging\logging\obj\Debug\logging.pdb
