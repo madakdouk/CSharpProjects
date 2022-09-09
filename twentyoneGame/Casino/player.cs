@@ -5,7 +5,7 @@ using System.Runtime.ExceptionServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace twentyoneGame
+namespace Casino
 {
     public class player
     {

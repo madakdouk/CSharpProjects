@@ -10,7 +10,7 @@ using System.Threading.Tasks;
  * It has one property which is a list element: Cards
  * It has a constructor method that populates Cards property with a list of a classic 13-faces, 4-suits, 52 total cards objects
  */
-namespace twentyoneGame
+namespace Casino
 {
     //class is called deck
     public class deck

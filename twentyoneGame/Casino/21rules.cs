@@ -5,7 +5,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace twentyoneGame
+namespace Casino.twentyoneGame
 {
     public class _21rules
     {

@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Casino/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Casino.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Casino.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Casino/1.0.0": {
+      "type": "project",
+      "path": "../Casino/Casino.csproj",
+      "msbuildProject": "../Casino/Casino.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Casino >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\MDakd\\.nuget\\packages\\": {},
@@ -39,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\MDakd\\OneDrive\\Documents\\GitHub\\CSharpProjects\\twentyoneGame\\Casino\\Casino.csproj": {
+              "projectPath": "C:\\Users\\MDakd\\OneDrive\\Documents\\GitHub\\CSharpProjects\\twentyoneGame\\Casino\\Casino.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

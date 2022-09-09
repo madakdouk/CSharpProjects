@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace twentyoneGame
+namespace Casino.twentyoneGame
 {
     public class _21dealer : dealer
     {

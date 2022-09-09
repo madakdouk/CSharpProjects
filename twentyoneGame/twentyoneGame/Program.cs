@@ -1,4 +1,5 @@
-﻿using twentyoneGame;
+﻿using Casino;
+using Casino.twentyoneGame;
 
 internal class Program
 {
