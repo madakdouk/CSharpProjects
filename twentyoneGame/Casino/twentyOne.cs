@@ -37,7 +37,7 @@ namespace Casino.twentyoneGame
                 }
                 if (bet < 0)
                 {
-                    throw new fraudException();
+                    throw new fraudException("Security! Kick this person out.");
                 }
                 bool successfulBet = player.Bet(bet);
                 if (!successfulBet) //if player places bet that is too high, they will be asked to place another bet
