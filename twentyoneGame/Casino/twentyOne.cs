@@ -24,10 +24,21 @@ namespace Casino.twentyoneGame
                 player.Hand = new List<card>();
                 player.Stay = false;
             }
-            Console.WriteLine("Place your bet!");
             foreach (player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false; //variable to check upcoming user input
+                int bet = 0; //variable that will eventually store betting amount
+                while (!validAnswer) //this loop will run until valid answer is true
+                {
+                    Console.WriteLine("Place your bet!"); //asking for user input
+                    //tryparse will attempt to convert string input to int, if it succeeds then bool will be true, loop will end, bet will be stored
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("Please enter numeric digits only and no decimals.");
+                }
+                if (bet < 0)
+                {
+                    throw new fraudException();
+                }
                 bool successfulBet = player.Bet(bet);
                 if (!successfulBet) //if player places bet that is too high, they will be asked to place another bet
                 {
