@@ -13,7 +13,12 @@ internal class Program
         string answer = Console.ReadLine().ToLower(); //converting answer to lowercase to make it easier to check
         if (answer == "yes" || answer == "y" || answer == "yeah" || answer == "ya")
         {
-            player player = new player(playerName, bank); //instantiating new player
+            player player = new player(playerName, bank); //instantiating new player and id
+            player.id = Guid.NewGuid();
+            using (StreamWriter file = new StreamWriter(@"C:\Users\MDakd\Downloads\logs\logtest3.txt", true))
+            {
+                file.WriteLine(player.id); //logging player's id in txt file
+            }
             game twenty1 = new twentyOne();
             twenty1 += player; //created new game object and added player to game's list of players
             player.isActivelyPlaying = true;

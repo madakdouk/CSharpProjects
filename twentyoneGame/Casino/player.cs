@@ -9,7 +9,10 @@ namespace Casino
 {
     public class player
     {
-        //constructor method
+        //chained constructor methods
+        public player (string name) : this(name, 100)
+        {
+        }
         public player(string name, int beginningBalance)
         {
             Hand = new List<card>();
@@ -24,6 +27,7 @@ namespace Casino
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public Guid id { get; set; }
 
         //creating method to check if player has sufficient funds for bets
         public bool Bet(int amount)
