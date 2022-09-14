@@ -58,3 +58,7 @@ C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\Newsletter\Newsletter\bi
 C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\Newsletter\Newsletter\bin\roslyn\System.Memory.dll
 C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\Newsletter\Newsletter\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\Newsletter\Newsletter\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\Newsletter\Newsletter\bin\EntityFramework.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\Newsletter\Newsletter\bin\EntityFramework.SqlServer.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\Newsletter\Newsletter\bin\EntityFramework.xml
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\Newsletter\Newsletter\bin\EntityFramework.SqlServer.xml
