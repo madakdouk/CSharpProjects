@@ -3,6 +3,7 @@ using Newsletter.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Web;
 using System.Web.Mvc;
 
@@ -15,7 +16,10 @@ namespace Newsletter.Controllers
         {
             using (NewsletterEntities db = new NewsletterEntities())
             {
-                var signups = db.SignUps;
+                //var signups = db.SignUps.Where(x => x.Removed == null).ToList();
+                var signups = (from c in db.SignUps
+                               where c.Removed == null
+                               select c).ToList();
                 var signupVms = new List<SignupVM>();
                 foreach (var signup in signups)
                 {
@@ -29,15 +33,15 @@ namespace Newsletter.Controllers
                 return View(signupVms);
             }
         }
-    }
-    public ActionResult Unsubscribe(int Id)
-    {
-        using (NewsletterEntities db = new NewsletterEntities())
+        public ActionResult Unsubscribe(int Id)
         {
-            var signup = db.SignUps.Find(Id);
-            signup.Removed = DateTime.Now;
-            db.SaveChanges();
+            using (NewsletterEntities db = new NewsletterEntities())
+            {
+                var signup = db.SignUps.Find(Id);
+                signup.Removed = DateTime.Now;
+                db.SaveChanges();
+            }
+            return RedirectToAction("Index");
         }
-        return RedirectToAction("Index", "Admin");
     }
 }
