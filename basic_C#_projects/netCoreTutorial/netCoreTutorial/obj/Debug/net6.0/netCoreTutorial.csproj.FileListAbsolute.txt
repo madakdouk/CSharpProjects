@@ -1,0 +1,15 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\bin\Debug\net6.0\netCoreTutorial.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\bin\Debug\net6.0\netCoreTutorial.deps.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\bin\Debug\net6.0\netCoreTutorial.runtimeconfig.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\bin\Debug\net6.0\netCoreTutorial.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\bin\Debug\net6.0\netCoreTutorial.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\obj\Debug\net6.0\netCoreTutorial.csproj.AssemblyReference.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\obj\Debug\net6.0\netCoreTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\obj\Debug\net6.0\netCoreTutorial.AssemblyInfoInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\obj\Debug\net6.0\netCoreTutorial.AssemblyInfo.cs
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\obj\Debug\net6.0\netCoreTutorial.csproj.CoreCompileInputs.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\obj\Debug\net6.0\netCoreTutorial.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\obj\Debug\net6.0\refint\netCoreTutorial.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\obj\Debug\net6.0\netCoreTutorial.pdb
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\obj\Debug\net6.0\netCoreTutorial.genruntimeconfig.cache
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\netCoreTutorial\netCoreTutorial\obj\Debug\net6.0\ref\netCoreTutorial.dll
