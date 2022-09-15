@@ -1,0 +1,7 @@
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\FinalChallengeCSharp\FinalChallengeCSharp\obj\Release\net6.0\PubTmp\Out\FinalChallengeCSharp.exe
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\FinalChallengeCSharp\FinalChallengeCSharp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\FinalChallengeCSharp\FinalChallengeCSharp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\FinalChallengeCSharp\FinalChallengeCSharp\obj\Release\net6.0\PubTmp\Out\FinalChallengeCSharp.dll
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\FinalChallengeCSharp\FinalChallengeCSharp\obj\Release\net6.0\PubTmp\Out\FinalChallengeCSharp.deps.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\FinalChallengeCSharp\FinalChallengeCSharp\obj\Release\net6.0\PubTmp\Out\FinalChallengeCSharp.runtimeconfig.json
+C:\Users\MDakd\OneDrive\Documents\GitHub\CSharpProjects\basic_C#_projects\FinalChallengeCSharp\FinalChallengeCSharp\obj\Release\net6.0\PubTmp\Out\FinalChallengeCSharp.pdb
